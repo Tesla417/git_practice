@@ -1,5 +1,4 @@
 # Git Guide
 
 -featureA
-
-
+-featureB
