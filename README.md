@@ -1,3 +1,3 @@
 # Git Guide
 
-Play git -------Tesla 
+Play git
