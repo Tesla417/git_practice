@@ -2,3 +2,5 @@
 
 -featureA
 -featureB
+-featureC
+-featureD
